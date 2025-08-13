@@ -14,38 +14,6 @@ This project implements an agent-based system designed to optimize resource allo
 - **Scalability:** Designed to handle multiple agents and devices, making it suitable for large-scale MEC deployments.
 - **Simulation Environment:** Includes a simulation setup to test and validate the agent-based system under different conditions.
 
-## Installation
-
-### Prerequisites
-
-- Python 3.x
-- Required Python packages (listed in `requirements.txt`)
-- A compatible simulation environment (e.g., SimPy)
-
-### Steps
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/MEC-Agent-System.git
-   ```
-   
-2.  **Navigate to the project directory:**
-
-   ```bash
-   cd MEC-Agent-System
-   ```
-   
-3.  **Install the required Python packages:**
-  
-  ```bash
-   pip install -r requirements.txt
-   ```
-4.  **Run the simulation:**
-  
-  ```bash
-   python test.py
-   ```
 ## Usage
 
 ### Running the Simulation:
